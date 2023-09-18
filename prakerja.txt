@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
+tambahan dari FeatureB
+=======
 tambahan dari featureA
+>>>>>>> master
