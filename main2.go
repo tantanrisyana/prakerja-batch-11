@@ -9,13 +9,7 @@ import (
 	"strings"
 )
 
-/*
- * Complete the 'reverseArray' function below.
- *
- * The function is expected to return an INTEGER_ARRAY.
- * The function accepts INTEGER_ARRAY arr as parameter.
- */
-
+// Fungsi reverseArray akan menerima array int32 dan mengembalikan array tersebut dalam keadaan terbalik.
 func reverseArray(arr []int32) []int32 {
 	length := len(arr)
 	reversed := make([]int32, length)
